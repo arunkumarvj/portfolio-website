@@ -1,0 +1,3 @@
+# portfolio-website
+This is my first collage mini projects ever  done..... which is a new experience with the hands-on-programming, and I love to do again and again... 
+for this website i use html, css, javascript
